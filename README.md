@@ -10,6 +10,9 @@ Whether you're a developer, DevOps engineer, or just someone looking to
 streamline repetitive tasks, "GitHub Actions Essentials" is the perfect
 introduction to this powerful CI/CD tool.
 
+* **Date:** Wed 28 Aug 2024 15:00-17:00 (BST)
+* **Location:** Online
+
 #### What You’ll Learn:
 
 * **Introduction to GitHub Actions:** Understand the basics, including what
