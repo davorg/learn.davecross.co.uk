@@ -18,7 +18,7 @@ Upcoming courses and seminars.
         iframeContainerId: 'eventbrite-widget-container-983918846757',
 
         // Optional
-        iframeContainerHeight: 475,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 500,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
