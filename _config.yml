@@ -6,7 +6,7 @@ plugins:
 
 locale: "en-GB"
 
-title: Leanr with Dave Cross
+title: Learn with Dave Cross
 description: Web Development and CI/CD Engineer · Author / Publisher · Digital Mentor
 logo: https://davecross.co.uk/img/dave-new-sq.jpg
 
@@ -18,8 +18,11 @@ analytics:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       image: https://davecross.co.uk/img/dave-new-sq.jpg
-
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
