@@ -1,11 +1,19 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+locale: "en-GB"
+
 title: Dave Cross
 description: Web Development and CI/CD Engineer · Author / Publisher · Digital Mentor
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
 logo: https://davecross.co.uk/img/dave-new-sq.jpg
 
-google_analytics: "G-X9P56MJ3WY"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-X9P56MJ3WY"
 
 defaults:
   - scope:
