@@ -1,5 +1,3 @@
-# Learn with Dave Cross
-
 ## Upcoming courses and seminars.
 
 ### GitHub Actions Essentials
