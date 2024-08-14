@@ -1,0 +1,71 @@
+  <section class="py-5 text-center container">
+    <div class="row py-lg-5">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Learn with Dave Cross</h1>
+        <p class="lead text-muted">Dave Cross has been running training courses since 2000.<br>
+          See the details of his current courses below.</p>
+        <p>
+          <!-- a href="#" class="btn btn-primary my-2">Main call to action</a>
+          <a href="#" class="btn btn-secondary my-2">Secondary action</a -->
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <div class="album py-5 bg-light">
+    <div class="container">
+
+      <h2>Upcoming courses</h2>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card shadow-sm">
+            <a href="/github-actions/"><img src="/img/github-actions-essentials-crop.png" alt="GitHub Actions Essentials" width="100%" height="225"></a>
+            <div class="card-body">
+              <p class="card-text"><b><i>Automate your workflows with GitHub Actions.</i></b><br>
+                Join us to master creating, managing, and optimising CI/CD pipelines. Boost your development efficiency in just two hours.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a href="/github-actions/" class="btn btn-sm btn-primary">More info</a>
+                </div>
+                <small class="text-muted">Wed 28 Aug 2024 / Online / 2 hours</small>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <a href="/github-pages/"><img src="/img/github-pages-essentials-crop.png" alt="GitHub Pages Essentials" width="100%" height="225"></a>
+
+            <div class="card-body">
+              <p class="card-text"><b><i>Build and host your website effortlessly with GitHub Pages.</i></b><br>
+                Learn to create, customise, and manage your site—all from your GitHub repository. Start today.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a href="/github-pages/" class="btn btn-sm btn-primary">More info</a>
+                </div>
+                <small class="text-muted">Wed 4 Sep 2024 / Online / 2 hours</small>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <a href="/github-copilot/"><img src="/img/github-copilot-essentials-crop.png" alt="GitHub Copilot Essentials" width="100%" height="225"></a>
+
+            <div class="card-body">
+              <p class="card-text"><b></i>Unlock AI-powered coding with GitHub Copilot.</i></b><br>
+                Discover how to write smarter, faster, and more efficient code using cutting-edge AI tools in this two-hour session.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a href="/github-copilot/" class="btn btn-sm btn-primary">More info</a>
+                </div>
+                <small class="text-muted">Wed 11 Sep 2024 / Online / 2 hours</small>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
