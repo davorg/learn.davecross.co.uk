@@ -1,6 +1,8 @@
 ---
 layout: course
 eventbrite_id: 989075871557
+title: GitHub Copilot Essentials
+image: img/github-copilot-essentials-crop.png
 ---
 
 ## GitHub Copilot Essentials

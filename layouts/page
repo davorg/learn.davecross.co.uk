@@ -14,10 +14,15 @@
 [% END -%]
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.84.0">
-    <title>Learn with Dave Cross</title>
+    <meta name="description" content="Technical training courses from Dave Cross">
+    <meta name="author" content="Dave Cross">
+    <meta name="generator" content="Aphra v0.2.1">
+    <meta property="og:title" content="[% IF page.title; page.title _ ' : '; END; site.title %]" />
+    <meta property="og:description" content="Technical training courses from Dave Cross" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="[% file.uri %]" />
+    <meta property="og:image" content="[% file.app.uri %][% page.image || site.image %]" />
+    <title>[% IF page.title; page.title _ ' : '; END; site.title %]</title>
 
     <link rel="canonical" href="[% file.uri %]">
 

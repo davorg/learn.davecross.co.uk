@@ -1,6 +1,8 @@
 ---
 layout: course
 eventbrite_id: 983918846757
+title: GitHub Actions Essentials
+image: img/github-actions-essentials-crop.png
 ---
 
 ## GitHub Actions Essentials

@@ -1,6 +1,8 @@
 ---
 layout: course
 eventbrite_id: 989055099427
+title: GitHub Pages Essentials
+image: img/github-pages-essentials-crop.png
 ---
 
 ## GitHub Pages Essentials
