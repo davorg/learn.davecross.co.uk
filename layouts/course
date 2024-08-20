@@ -3,6 +3,9 @@
   <div class="row">
     <div class="col-12 col-md-6">
 [%   content %]
+
+    <p><a href="https://www.eventbrite.co.uk/e/[% page.eventbrite_id %]?aff=oddtdtcreator">Book on Eventbrite</a></p>
+
     </div>
     <div class="col-12 col-md-6">
 [%   IF page.eventbrite_id -%]
