@@ -2,10 +2,16 @@
 <div class="container">
   <div class="row">
     <div class="col-12 col-md-6">
+
+[% IF page.eventbrite_id -%]
+    <p><a class="btn btn-primary" href="https://www.eventbrite.co.uk/e/[% page.eventbrite_id %]?aff=oddtdtcreator">Book on Eventbrite</a></p>
+[% END -%]
+
 [%   content %]
 
-    <p><a href="https://www.eventbrite.co.uk/e/[% page.eventbrite_id %]?aff=oddtdtcreator">Book on Eventbrite</a></p>
-
+[% IF page.eventbrite_id -%]
+    <p><a class="btn btn-primary" href="https://www.eventbrite.co.uk/e/[% page.eventbrite_id %]?aff=oddtdtcreator">Book on Eventbrite</a></p>
+[% END -%]
     </div>
     <div class="col-12 col-md-6">
 [%   IF page.eventbrite_id -%]
