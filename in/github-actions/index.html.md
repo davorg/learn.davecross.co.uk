@@ -3,6 +3,13 @@ layout: course
 eventbrite_id: 983918846757
 title: GitHub Actions Essentials
 image: img/github-actions-essentials-crop.png
+related:
+  - title: GitHub Pages Essentials
+    image: github-pages-essentials-crop.png
+    link: /github-pages/
+  - title: GitHub Copilot Essentials
+    image: github-copilot-essentials-crop.png
+    link: /github-copilot/
 ---
 
 ## GitHub Actions Essentials

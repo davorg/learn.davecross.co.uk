@@ -3,6 +3,13 @@ layout: course
 eventbrite_id: 989075871557
 title: GitHub Copilot Essentials
 image: img/github-copilot-essentials-crop.png
+related:
+  - title: GitHub Actions Essentials
+    image: github-actions-essentials-crop.png
+    link: /github-actions/
+  - title: GitHub Pages Essentials
+    image: github-pages-essentials-crop.png
+    link: /github-pages/
 ---
 
 ## GitHub Copilot Essentials

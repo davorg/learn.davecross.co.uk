@@ -38,5 +38,16 @@
 [%   END -%]
     </div>
   </div>
+[% IF page.related -%]
+  <div class="row">
+    <hr>
+    <h2>Related courses</h2>
+[% FOR course IN page.related -%]
+    <div class="col-6">
+[% INCLUDE course_widget(course) %]
+    </div>
+[% END -%]
+  </div>
+[% END -%]
 </div>
 [% END -%]
