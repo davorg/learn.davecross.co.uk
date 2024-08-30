@@ -62,9 +62,9 @@
                   Upcoming courses
                 </a>
                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="/github-actions/">GitHub Actions Essentials</a></li>
                   <li><a class="dropdown-item" href="/github-pages/">Github Pages Essentials</a></li>
                   <li><a class="dropdown-item" href="/github-copilot/">GitHub Copilot Essentials</a></li>
+                  <li><a class="dropdown-item" href="/github-actions-2/">GitHub Actions Essentials</a></li>
                 </ul>
               </li>
             </ul>

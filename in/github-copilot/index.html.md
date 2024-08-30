@@ -6,7 +6,7 @@ image: img/github-copilot-essentials-crop.png
 related:
   - title: GitHub Actions Essentials
     image: github-actions-essentials-crop.png
-    link: /github-actions/
+    link: /github-actions-2/
   - title: GitHub Pages Essentials
     image: github-pages-essentials-crop.png
     link: /github-pages/
