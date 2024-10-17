@@ -16,9 +16,13 @@
   <div class="album py-5 bg-light">
     <div class="container">
 
-      <h2>Upcoming courses</h2>
+      <h2>Upcoming public courses</h2>
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          Nothing planned currently.<br>
+          Subscribe to my <a href="https://davecross.subsctack.com/">Substack</a> to keep up to date.
+        </div>
         <!-- div class="col">
           <div class="card shadow-sm">
             <a href="/github-actions/"><img src="/img/github-actions-essentials-crop.png" alt="GitHub Actions Essentials" width="100%" height="225"></a>
@@ -34,7 +38,7 @@
             </div>
           </div>
         </div -->
-        <div class="col">
+        <!-- div class="col">
           <div class="card shadow-sm">
             <a href="/github-pages/"><img src="/img/github-pages-essentials-crop.png" alt="GitHub Pages Essentials" width="100%" height="225"></a>
 
@@ -49,8 +53,8 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="col">
+        </div -->
+        <!-- div class="col">
           <div class="card shadow-sm">
             <a href="/github-copilot/"><img src="/img/github-copilot-essentials-crop.png" alt="GitHub Copilot Essentials" width="100%" height="225"></a>
 
@@ -65,8 +69,8 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="col">
+        </div -->
+        <!-- div class="col">
           <div class="card shadow-sm">
             <a href="/github-actions-2/"><img src="/img/github-actions-essentials-crop.png" alt="GitHub Actions Essentials" width="100%" height="225"></a>
             <div class="card-body">
@@ -80,7 +84,23 @@
               </div>
             </div>
           </div>
-        </div>
+        </div -->
       </div>
+
+      <hr>
+
+      <h2>In-house courses</h2>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          If you like you could benefit from my in-house training on any aspect of:</p>
+          <ul>
+            <li>Unix/Linux</li>
+            <li>GitHub</li>
+            <li>Continuous Intergration / Continuous Deployment</li>
+            <li>Perl</li>
+          </ul>
+          Then <a href="mailto:hello@davecross.co.uk">get in touch</a> and let's talk.
+        </div>
     </div>
   </div>
