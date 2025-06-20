@@ -2,6 +2,7 @@
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Learn with Dave Cross</h1>
+        <p><img src="/img/dc-talk-cartoon.png" width="100%"></p>
         <p class="lead text-muted">Dave Cross has been running training courses
           on various technical subjects since 2000.<br>
           See the details of his upcoming courses below.</p>
