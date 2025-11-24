@@ -18,7 +18,7 @@ jobs:
       run: aphra -v
 
     - name: Checkout
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
 
     - name: Create pages
       run: aphra build > aphra.log 2>&1
