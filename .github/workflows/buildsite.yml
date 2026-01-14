@@ -15,10 +15,13 @@ jobs:
 
     steps:
     - name: Aphra version
-      run: aphra -v
+      run: aphra --version
 
     - name: Checkout
       uses: actions/checkout@v6
+
+    - name: Aphra version check
+      run: aphra 
 
     - name: Create pages
       run: aphra build > aphra.log 2>&1
