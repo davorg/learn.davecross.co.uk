@@ -94,7 +94,7 @@
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
-          If you like you could benefit from my in-house training on any aspect of:</p>
+          <p>If you like you could benefit from my in-house training on any aspect of:</p>
           <ul>
             <li>Unix/Linux</li>
             <li>GitHub</li>
@@ -103,5 +103,25 @@
           </ul>
           Then <a href="mailto:hello@davecross.co.uk">get in touch</a> and let's talk.
         </div>
+      </div>
+
+      <hr>
+
+      <h2>Slides archive</h2>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <p>I've run a lot of public training courses over the couple of
+            decades.</p>
+          <p>I'm trying to build up an archive of the slides from as many of
+            those courses as possible. But it's a project that will involve
+            a great deal of hard-disk and cloud storage archeology&mdash;so
+            it'll take a while...</p>
+          <p>If you saw me talk at a conference or a user group meeting, then
+            that talk will (eventually) be on my
+            <a href="https://talks.davecross.co.uk/>talks site</a>.</p>
+        </div>
+      </div>
+
+
     </div>
-  </div>
