@@ -13,13 +13,14 @@
     </script>
 [% END -%]
 
+[% description = page.description OR 'Technical training courses from Dave Cross' -%]
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Technical training courses from Dave Cross">
+    <meta name="description" content="[% description %]">
     <meta name="author" content="Dave Cross">
     <meta name="generator" content="Aphra v0.2.1">
     <meta property="og:title" content="[% IF page.title; page.title _ ' : '; END; site.title %]" />
-    <meta property="og:description" content="Technical training courses from Dave Cross" />
+    <meta property="og:description" content="[% description %]" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="[% file.uri %]" />
     <meta property="og:image" content="[% file.app.uri %][% page.image || site.image %]" />
