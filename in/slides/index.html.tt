@@ -1,0 +1,61 @@
+  <section class="py-5 text-center container">
+    <div class="row py-lg-5">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Slide archive</h1>
+        <p><img src="/img/dc-talk-cartoon.png" width="100%"></p>
+        <p class="lead text-muted">Dave Cross has been running training courses
+          on various technical subjects since 2000.<br>
+          Slides from previous courses are collected below.</p>
+      </div>
+    </div>
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Event</th>
+          <th>Course</th>
+          <th>Links</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="2">Feb 2009</td>
+          <td rowspan="2">UKUUG</td>
+          <td>Introduction to Perl</td>
+          <td><a href="/slides/ukuug-2009-02-begin.pdf">[PDF]</a> / 
+            <a href="/slides/ukuug-2009-02-begin.odp">[ODP]</a></td>
+        </tr>
+        <tr>
+          <td>Advanced Perl Techniques</td>
+          <td><a href="/slides/ukuug-2009-02-adv.pdf">[PDF]</a> / 
+            <a href="/slides/ukuug-2009-02-adv.pdp">[ODP]</a></td>
+        </tr>
+        <tr>
+          <td>Aug 2009</td>
+          <td>YAPC Lisbon</td>
+          <td>Introduction to Perl</td>
+          <td><a href="/slides/intro-perl-lisbon-1.odp">Day 1 [ODP]</a> / 
+            <a href="/slides/intro-perl-lisbon-2.odp">Day 2 [ODP]</a></td>
+        </tr>
+        <tr>
+          <td rowspan="3">Nov 2009</td>
+          <td rowspan="3">UKUUG</td>
+          <td>Introduction to Perl</td>
+          <td><a href="/slides/ukuug-2009-11-begin.pdf">[PDF]</a> / 
+            <a href="/slides/ukuug-2009-11-begin.odp">[ODP]</a></td>
+        </tr>
+        <tr>
+          <td>Intermediate Perl</td>
+          <td><a href="/slides/ukuug-2009-11-int.pdf">[PDF]</a> / 
+            <a href="/slides/ukuug-2009-11-int.pdp">[ODP]</a></td>
+        </tr>
+        <tr>
+          <td>Advanced Perl Techniques</td>
+          <td><a href="/slides/ukuug-2009-11-adv.pdf">[PDF]</a> / 
+            <a href="/slides/ukuug-2009-11-adv.pdp">[ODP]</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
