@@ -20,9 +20,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v6
 
-    - name: Aphra version check
-      run: aphra 
-
     - name: Create pages
       run: aphra build > aphra.log 2>&1
 
