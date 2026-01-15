@@ -13,7 +13,9 @@ description: A work-in-progress archive of my training course slide decks from t
           Slides from previous courses are collected below.</p>
       </div>
     </div>
+  </section>
 
+  <section class="py-5 container">
     <table class="table">
       <thead>
         <tr>
