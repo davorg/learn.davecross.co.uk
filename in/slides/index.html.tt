@@ -60,6 +60,22 @@ description: A work-in-progress archive of my training course slide decks from t
           <td><a href="/slides/ukuug-2009-11-adv.pdf">[PDF]</a> / 
             <a href="/slides/ukuug-2009-11-adv.pdp">[ODP]</a></td>
         </tr>
+        <tr>
+          <td rowspan="2">Feb 2011</td>
+          <td rowspan="2">UKUUG</td>
+          <td>Intermediate Perl</td>
+          <td><a href="/slides/ukuug-2011-02-int1.pdf">Day 1 [PDF]</a> /
+            <a href="/slides/ukuug-2011-02-int1.odp">Day 1 [ODP]</a> /
+            <a href="/slides/ukuug-2011-02-int2.pdf">Day 2 [PDF]</a> /
+            <a href="/slides/ukuug-2011-02-int2.odp">Day 2 [ODP]</a></td>
+        </tr>
+        <tr>
+          <td>Advanced Perl Techniques</td>
+          <td><a href="/slides/ukuug-2011-02-adv1.pdf">Day 1 [PDF]</a> /
+            <a href="/slides/ukuug-2011-02-adv1.odp">Day 1 [ODP]</a> /
+            <a href="/slides/ukuug-2011-02-adv2.pdf">Day 2 [PDF]</a> /
+            <a href="/slides/ukuug-2011-02-adv2.odp">Day 2 [ODP]</a></td>
+        </tr>
       </tbody>
     </table>
   </section>
